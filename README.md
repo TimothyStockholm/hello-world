@@ -1,1 +1,6 @@
 # hello-world
+
+hey humans, 
+i am no great coder, but i have a ton of great ideas to bring to the community...
+maybe we can work together sometime...
+sleepytim out
